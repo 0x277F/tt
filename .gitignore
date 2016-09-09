@@ -1,0 +1,8 @@
+.idea/
+CMakeCache.txt
+Makefile
+*.cmake
+CMakeFiles/
+*.iml
+*.ipr
+*.iws
